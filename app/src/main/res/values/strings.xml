@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="goodbye_world">Goodbye World</string>
+    <string name="bye">bye</string>
+    <string name="webview">webview</string>
+    <string name="login">Login</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="password">Password</string>
+</resources>
